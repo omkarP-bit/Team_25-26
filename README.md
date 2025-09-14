@@ -123,7 +123,7 @@ We cover a wide range of domains to ensure comprehensive expertise and support f
 | Anup Dubey | Coordinator  | [GitHub](https://github.com/Anup1dubey) | [LinkedIn](https://www.linkedin.com/in/anup-dubey-646433328/) | [Twitter](https://x.com/AnupDubey680002) | [Leetcode](https://leetcode.com/u/Anupdubey/) |
 | Mustafa Nazir | Coordinator  | [GitHub]() | [LinkedIn]() | [Twitter]() | [Other Links]() |
 | Siddhartha Kushwaha | Coordinator  | [GitHub](https://github.com/DevSidd2006) | [LinkedIn](https://www.linkedin.com/in/siddhartha-kushwaha-2649bb334/) | [Twitter](https://x.com/arcane__coder) | [LeetCode](https://leetcode.com/u/dev_Siddhartha_Kushwaha/) |
-| Omkar Patil | Coordinator  | [GitHub]() | [LinkedIn]() | [Twitter]() | [Other Links]() |
+| Omkar Patil | Coordinator  | [GitHub](https://github.com/omkarP-bit) | [LinkedIn](https://www.linkedin.com/in/omkar-patil-a73907326) | [Twitter](https://x.com/omkarP47052) | [Leetcode](https://leetcode.com/u/omkarP-bit) |
 
 
 
